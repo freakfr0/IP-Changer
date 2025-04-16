@@ -40,7 +40,6 @@ The script will automatically change your IP address every specified interval or
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
-```
 
 ## Details
 
