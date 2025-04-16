@@ -14,7 +14,7 @@ This script allows you to change your IP address using the Tor network.
 1. Download the script to your system:
 
 ```bash
-wget https://example.com/ip-changer.sh
+wget https://freakfrv4/Ip-changer/Ip-Changer.sh
 ```
 
 2. Make the script executable:
