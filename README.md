@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freakfrv4&show_icons=true&locale=en" alt="freakfrv4" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfrv4&" alt="freak.fr" /></p>
@@ -19,7 +19,7 @@
 ## Titan IP-Changer 
 
 [![version](https://img.shields.io/badge/version-1.0-darkblue)](https://github.com/your-username/your-repo/releases/tag/v1.0.0)
-[![license](https://img.shields.io/badge/license-Titan-darkblue)]
+![license](https://img.shields.io/badge/license-Titan-darkblue)
 
 This script allows you to change your IP address using the Tor network.
 
