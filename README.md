@@ -1,11 +1,11 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfrv4&label=Profile%20views&color=0e75b6&style=flat" alt="freakfrv4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfrv4&label=Profile%20views&color=0e75b6&style=flat" alt="freakfr0" /> </p>
 
-<p align="left"> <a href="https://twitter.com/freakfrv4" target="blank"><img src="https://img.shields.io/twitter/follow/Freak.fr?logo=twitter&style=for-the-badge" alt="freakfrv4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/freakfrv4" target="blank"><img src="https://img.shields.io/twitter/follow/Freak.fr?logo=twitter&style=for-the-badge" alt=freakf.fr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/freakfrv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freakfrv4" height="30" width="40" /></a>
+<a href="https://twitter.com/freakfrv4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freakfr0" height="30" width="40" /></a>
 <a href="https://instagram.com/usrfreak.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usrfreak.exe" height="30" width="40" /></a>
 <a href="https://discord.gg/freak.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="freak.fr" height="30" width="40" /></a>
 </p>
