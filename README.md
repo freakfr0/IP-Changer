@@ -33,7 +33,7 @@ This script allows you to change your IP address using the Tor network.
 1. Download the script to your system:
 
 ```bash
-wget https:/github.com/freakfrv4/IP-Changer
+wget https:/github.com/freakfr0/IP-Changer
 ```
 
 2. Make the script executable:
